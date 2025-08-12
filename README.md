@@ -1,1 +1,1 @@
-Please Review Branch IPOPT and PROX-LINEAR
+Please check out the ipopt and the proxlinear branch.
